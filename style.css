@@ -276,8 +276,11 @@ nav ul a:hover{
     margin-top: 5px;
 }
 #c1{
-    color:white;
+    color: white;
     font-size: 20px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
     
 }
 
@@ -756,6 +759,7 @@ nav ul a:hover{
         font-size: 16px;
     }
 
+    
     .info {
         font-size: 15px;
         word-break: break-word;
